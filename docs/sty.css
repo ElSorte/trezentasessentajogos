@@ -124,9 +124,10 @@ header{
 	width:98%;
 	margin:10px 0px;
 	position:relative;
+	height:500px;
 }
-iframe#parte2{
-	height:300px;
+iframe#parte1{
+	height:500px;
 }
 
 #parte2-cabecalho{
